@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+streamlit_option_menu
+pickle
+PIL
+seaborn
+matplotlib.pyplot
+plotly.express
+datetime
+sklearn.preprocessing
